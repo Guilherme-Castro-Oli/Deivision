@@ -36,8 +36,8 @@ Deivison/
 | 04 | Aula 03 | vue-project | — | — | Vue |
 | 05 | Aula 03 | meu-app-angular | — | — | Angular |
 | 06 | Aula 03 | meu-projeto-nextjs | — | — | Next.js |
-| 07 | Aula 04 | projetos_API | [aula7/atv1](aula7/atv1/) | Esse repositório contém diversos projetos | React / Node.js (Express) |
-| 08 | Aula 04 | front_express | [aula7/atv2](aula7/atv2/) | — | Express / Node.js |
+| 07 | Aula 04 | projetos_API | — | — | React / Node.js (Express) |
+| 08 | Aula 04 | front_express | — | — | Express / Node.js |
 | 09 | Aula 05 | projeto-notas-back | — | — | Express / Node.js |
 | 10 | Aula 05 | front-notas | — | — | React |
 | 11 | Aula 06 | Sem projeto | — | — | — |
