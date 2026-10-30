@@ -36,14 +36,11 @@ Deivison/
 | 04 | Aula 03 | vue-project | — | — | Vue |
 | 05 | Aula 03 | meu-app-angular | — | — | Angular |
 | 06 | Aula 03 | meu-projeto-nextjs | — | — | Next.js |
-| 07 | Aula 04 | projetos_API | — | — | React / Node.js (Express) |
-| 08 | Aula 04 | front_express | — | — | Express / Node.js |
-| 09 | Aula 05 | projeto-notas-back | — | — | Express / Node.js |
-| 10 | Aula 05 | front-notas | — | — | React |
+| 07/08 | Aula 04 | front_express | — | — | Express / Node.js |
+| 09/10 | Aula 05 | projeto-notas-back | — | — | Express / Node.js |
 | 11 | Aula 06 | Sem projeto | — | — | — |
-| 12 | Aula 07 | Atividade 1 — Box Model e Flexbox | [aula7/atv1](aula7/atv1/) | Não publicado | HTML, CSS |
-| 13 | Aula 07 | Atividade 2 — Box Model e Flexbox | [aula7/atv2](aula7/atv2/) | Não publicado | HTML, Tailwind CSS |
-| 14 | Aula 08 | React Lab — conceitos fundamentais | [aula8](aula8/) | [Ver online](https://react-deivison8.vercel.app/) | React, Vite, React Router |
+| 12/13 | Aula 07 | Atividade 2 — Box Model e Flexbox | [aula7/atv2](aula7/atv2/) | Não publicado | HTML, Tailwind CSS |
+| 14/15 | Aula 08 | React Lab — conceitos fundamentais | [aula8](aula8/) | [Ver online](https://react-deivison8.vercel.app/) | React, Vite, React Router |
 
 ### Executar o projeto React
 
