@@ -2,13 +2,13 @@
 
 **Frameworks Front-end**
 
-# 🧑‍💻 Portfólio de atividades web
+# 📚 Estudos de Front-end
 
-Coleção de exercícios e aplicações criados nas aulas, explorando diferentes formas de construir páginas e interfaces para a web.
+Repositório dedicado às atividades e projetos desenvolvidos durante os estudos de Front-end, com exemplos práticos de HTML, CSS, Tailwind CSS e React.
 
 ## 🎯 Objetivo
 
-Reunir em um só lugar os trabalhos feitos ao longo do curso e aplicar, na prática, os recursos de marcação, estilo e programação apresentados em aula.
+Organizar os exercícios da disciplina, praticar os conceitos vistos em aula e manter um registro da evolução no desenvolvimento de interfaces web.
 
 ## 📁 Estrutura
 
@@ -24,16 +24,26 @@ Deivison/
     └── package.json
 ```
 
-Cada pasta reúne os arquivos de uma atividade. Os projetos web podem ser abertos no navegador; a aplicação React pode ser executada localmente com Node.js e npm.
 
 
 ## 🚀 Projetos e atividades
 
-| Aula | Projeto | Tecnologias | Como acessar |
-| --- | --- | --- | --- |
-| 07 | Atividade 1 — Box Model e Flexbox | HTML, CSS | Abra `aula7/atv1/index.html` no navegador |
-| 07 | Atividade 2 — Box Model e Flexbox | HTML, Tailwind CSS | Abra `aula7/atv2/index.html` no navegador; requer conexão para carregar o Tailwind |
-| 08 | React Lab — conceitos fundamentais | React, Vite, React Router | Execute `npm install` e `npm run dev` dentro de `aula8/` |
+| # | Aula | Projeto | Repositório | Deploy | Tecnologia |
+| --- | --- | --- | --- | --- | --- |
+| 01 | Aula 01 | vanilla.js | — | — | CSS / JavaScript |
+| 02 | Aula 02 | projeto-react | — | — | React |
+| 03 | Aula 03 | quiz_react | — | — | React |
+| 04 | Aula 03 | vue-project | — | — | Vue |
+| 05 | Aula 03 | meu-app-angular | — | — | Angular |
+| 06 | Aula 03 | meu-projeto-nextjs | — | — | Next.js |
+| 07 | Aula 04 | projetos_API | [aula7/atv1](aula7/atv1/) | Esse repositório contém diversos projetos | React / Node.js (Express) |
+| 08 | Aula 04 | front_express | [aula7/atv2](aula7/atv2/) | — | Express / Node.js |
+| 09 | Aula 05 | projeto-notas-back | — | — | Express / Node.js |
+| 10 | Aula 05 | front-notas | — | — | React |
+| 11 | Aula 06 | Sem projeto | — | — | — |
+| 12 | Aula 07 | Atividade 1 — Box Model e Flexbox | [aula7/atv1](aula7/atv1/) | Não publicado | HTML, CSS |
+| 13 | Aula 07 | Atividade 2 — Box Model e Flexbox | [aula7/atv2](aula7/atv2/) | Não publicado | HTML, Tailwind CSS |
+| 14 | Aula 08 | React Lab — conceitos fundamentais | [aula8](aula8/) | [Ver online](https://react-deivison8.vercel.app/) | React, Vite, React Router |
 
 ### Executar o projeto React
 
